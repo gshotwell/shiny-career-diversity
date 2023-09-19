@@ -3,3 +3,6 @@
 /.quarto/
 
 .DS_Store
+
+.venv/
+_site/

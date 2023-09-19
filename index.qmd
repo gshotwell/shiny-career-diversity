@@ -3,9 +3,12 @@ title: "Diversify your career with Shiny for Python"
 format: 
     revealjs:
         incremental: true
+        theme: league
+editor: 
+    render-on-save: true
 ---
 
-## Career mistakes
+# Career mistakes
 
 ::: {.notes}
 - Hired to build shiny apps an improve R code
@@ -21,23 +24,17 @@ format:
 - What value does it provide?
 - How do you prove it?
 
-## It's hard to learn substitute products
+## It's hard to learn substitutes
 
 - R and Python do very similar things
-- They have similar strengths and weaknesses
 - Close enough that you feel like you should know it
 - Far enough away that you don't
 
-
-## It's hard to learn substitutes
-- Rewards are helpful when learning new things
-- The marginal value of the substitute is low
-- My R solutions were usually better than my Python ones
-
 ## Value-based learning
-- Real value
-- Short time-to-value
-- Iterative value
+Learn things that:
+
+1) Provide real value
+1) As quickly as possible
 
 ## Shiny for Python
 
@@ -45,20 +42,14 @@ format:
 2) It's better than other Python frameworks
 3) You already know it
 
-## What can Shiny do for you?
-
-1) Deploy in new places
-2) Integrate with Python ecosystem
-3) Prove that you know Python
+# What do you get?
 
 ## Much easier deployment
 
 - Undeployed apps are worthless
 - R deployments are fraught
     - "Devops doesn't know R"
-    - "We don't have the right tooling"
     - "Will this scale?"
-    - "Who's going to support it?"
     - "What happens if you leave?"
 - Shiny for Python doesn't have these problems
 
@@ -78,15 +69,14 @@ format:
 
 ## What makes Shiny Special?
 - Programmatic range
-- You can build quick prototypes
-- THey smoothly grow in complexity
-- The prototype becomes the product
+- Prototypes smoothly grow into products
+- You don't need to hire anyone
 
 # The competition
 
 ## Streamlit
 - Optimized for very simple applications
-- Runs entire script from top-to-bottom
+- Runs entire script from top-to-bottom every time
 - Complex apps are not possible
 - Simple things are oddly difficult:
     - Updating a slider?
@@ -95,37 +85,38 @@ format:
 ## Dash
 - Stateless applicatoins
 - Components can't really share data
-- Imagine Shiny without `reactive({})`
+- Imagine Shiny without reactive expressions
 - Solves a problem which you probably don't have
 
 ## Django/Flask/FastAPI
 - Great for large apps
-- Not simple!
-- You need to write your own front-end
 - Fairly steep learning curve
+- You need to write your own front-end
 
-# You already know Shiny
+# You already know Shiny for Python
 
-## Shiny is JavaScript
-- Shiny for R is really an R client for a JavaScript framework
-- Shiny for Python is a Python client for the same framework
+## Knowledge is transferrable
+- Both libraries are clients to the same framework
 - Most of what you know from R Shiny is transferrable
     - How reactivity works
     - When to use reactives vs observers
     - When to use a module
     - How to style Shiny applications
+- ChatGPT can fill in the rest
 
 ## Value based learning
 - Provides you value 
-    - Integrates better
+    - Adds integration options
 - Provides your employer value
     - Does things that other frameworks can't do
 - Fast time-to-value
     - You're already an expert
 
 ## Get involved
-- Join the discord
+- Join the Discord
+- Port an R shiny extension
 - Book a webinar with us
-- Host a workshop yourself
 
+# Thank you!
 
+https://shiny.rstudio.com/py/
