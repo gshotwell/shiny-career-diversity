@@ -1,0 +1,100 @@
+[
+  {
+    "objectID": "index.html#learn-python-is-a-terrible-goal",
+    "href": "index.html#learn-python-is-a-terrible-goal",
+    "title": "Diversify your career with Shiny for Python",
+    "section": "“Learn Python” is a terrible goal",
+    "text": "“Learn Python” is a terrible goal\n\nWhat does it mean?\nWhen are you done?\nWhat value does it provide?\nHow do you prove it?"
+  },
+  {
+    "objectID": "index.html#its-hard-to-learn-substitutes",
+    "href": "index.html#its-hard-to-learn-substitutes",
+    "title": "Diversify your career with Shiny for Python",
+    "section": "It’s hard to learn substitutes",
+    "text": "It’s hard to learn substitutes\n\nR and Python do very similar things\nClose enough that you feel like you should know it\nFar enough away that you don’t"
+  },
+  {
+    "objectID": "index.html#value-based-learning",
+    "href": "index.html#value-based-learning",
+    "title": "Diversify your career with Shiny for Python",
+    "section": "Value-based learning",
+    "text": "Value-based learning\nLearn things that:\n\nProvide real value\nAs quickly as possible"
+  },
+  {
+    "objectID": "index.html#shiny-for-python",
+    "href": "index.html#shiny-for-python",
+    "title": "Diversify your career with Shiny for Python",
+    "section": "Shiny for Python",
+    "text": "Shiny for Python\n\nIt gives you something you don’t have\nIt’s better than other Python frameworks\nYou already know it"
+  },
+  {
+    "objectID": "index.html#much-easier-deployment",
+    "href": "index.html#much-easier-deployment",
+    "title": "Diversify your career with Shiny for Python",
+    "section": "Much easier deployment",
+    "text": "Much easier deployment\n\nUndeployed apps are worthless\nR deployments are fraught\n\n“Devops doesn’t know R”\n“Will this scale?”\n“What happens if you leave?”\n\nShiny for Python doesn’t have these problems"
+  },
+  {
+    "objectID": "index.html#easier-integration",
+    "href": "index.html#easier-integration",
+    "title": "Diversify your career with Shiny for Python",
+    "section": "Easier integration",
+    "text": "Easier integration\n\nReticulate is great but…\n\nWrapping python inside of R is hard\nNot everything works\nEnvironments can be challenging\nHard to get help"
+  },
+  {
+    "objectID": "index.html#proves-you-know-python",
+    "href": "index.html#proves-you-know-python",
+    "title": "Diversify your career with Shiny for Python",
+    "section": "Proves you know Python",
+    "text": "Proves you know Python\n\nCreates an artifact\nDemonstrates value\nBetter than what they’ve seen before"
+  },
+  {
+    "objectID": "index.html#what-makes-shiny-special",
+    "href": "index.html#what-makes-shiny-special",
+    "title": "Diversify your career with Shiny for Python",
+    "section": "What makes Shiny Special?",
+    "text": "What makes Shiny Special?\n\nProgrammatic range\nPrototypes smoothly grow into products\nYou don’t need to hire anyone"
+  },
+  {
+    "objectID": "index.html#streamlit",
+    "href": "index.html#streamlit",
+    "title": "Diversify your career with Shiny for Python",
+    "section": "Streamlit",
+    "text": "Streamlit\n\nOptimized for very simple applications\nRuns entire script from top-to-bottom every time\nComplex apps are not possible\nSimple things are oddly difficult:\n\nUpdating a slider?\nChanging a button color?"
+  },
+  {
+    "objectID": "index.html#dash",
+    "href": "index.html#dash",
+    "title": "Diversify your career with Shiny for Python",
+    "section": "Dash",
+    "text": "Dash\n\nStateless applicatoins\nComponents can’t really share data\nImagine Shiny without reactive expressions\nSolves a problem which you probably don’t have"
+  },
+  {
+    "objectID": "index.html#djangoflaskfastapi",
+    "href": "index.html#djangoflaskfastapi",
+    "title": "Diversify your career with Shiny for Python",
+    "section": "Django/Flask/FastAPI",
+    "text": "Django/Flask/FastAPI\n\nGreat for large apps\nFairly steep learning curve\nYou need to write your own front-end"
+  },
+  {
+    "objectID": "index.html#knowledge-is-transferrable",
+    "href": "index.html#knowledge-is-transferrable",
+    "title": "Diversify your career with Shiny for Python",
+    "section": "Knowledge is transferrable",
+    "text": "Knowledge is transferrable\n\nBoth libraries are clients to the same framework\nMost of what you know from R Shiny is transferrable\n\nHow reactivity works\nWhen to use reactives vs observers\nWhen to use a module\nHow to style Shiny applications\n\nChatGPT can fill in the rest"
+  },
+  {
+    "objectID": "index.html#value-based-learning-1",
+    "href": "index.html#value-based-learning-1",
+    "title": "Diversify your career with Shiny for Python",
+    "section": "Value based learning",
+    "text": "Value based learning\n\nProvides you value\n\nAdds integration options\n\nProvides your employer value\n\nDoes things that other frameworks can’t do\n\nFast time-to-value\n\nYou’re already an expert"
+  },
+  {
+    "objectID": "index.html#get-involved",
+    "href": "index.html#get-involved",
+    "title": "Diversify your career with Shiny for Python",
+    "section": "Get involved",
+    "text": "Get involved\n\nJoin the Discord\nPort an R shiny extension\nBook a webinar with us"
+  }
+]
