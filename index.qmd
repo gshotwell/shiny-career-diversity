@@ -118,6 +118,6 @@ Learn things that:
 - Port an R shiny extension
 - Book a webinar with us
 
-# Thank you!
+## Thank you!
 
-https://shiny.rstudio.com/py/
+![](qrcode.svg)
