@@ -30,13 +30,13 @@ editor:
 - Close enough that you feel like you should know it
 - Far enough away that you don't
 
-## Value-based learning
+## Value based learning {.center}
 Learn things that:
 
-1) Provide real value
-1) As quickly as possible
+* Provide real value
+* Really quickly
 
-## Shiny for Python
+## {.center}
 
 1) It gives you something you don't have
 2) It's better than other Python frameworks
@@ -59,6 +59,7 @@ Learn things that:
     - Not everything works
     - Environments can be challenging
     - Hard to get help 
+- One language is simpler
 
 ## Proves you know Python
 - Creates an artifact
