@@ -17,15 +17,15 @@
     "objectID": "index.html#value-based-learning",
     "href": "index.html#value-based-learning",
     "title": "Diversify your career with Shiny for Python",
-    "section": "Value-based learning",
-    "text": "Value-based learning\nLearn things that:\n\nProvide real value\nAs quickly as possible"
+    "section": "Value based learning",
+    "text": "Value based learning\nLearn things that:\n\nProvide real value\nReally quickly"
   },
   {
-    "objectID": "index.html#shiny-for-python",
-    "href": "index.html#shiny-for-python",
+    "objectID": "index.html#section",
+    "href": "index.html#section",
     "title": "Diversify your career with Shiny for Python",
-    "section": "Shiny for Python",
-    "text": "Shiny for Python\n\nIt gives you something you don’t have\nIt’s better than other Python frameworks\nYou already know it"
+    "section": "",
+    "text": "It gives you something you don’t have\nIt’s better than other Python frameworks\nYou already know it"
   },
   {
     "objectID": "index.html#much-easier-deployment",
@@ -39,7 +39,7 @@
     "href": "index.html#easier-integration",
     "title": "Diversify your career with Shiny for Python",
     "section": "Easier integration",
-    "text": "Easier integration\n\nReticulate is great but…\n\nWrapping python inside of R is hard\nNot everything works\nEnvironments can be challenging\nHard to get help"
+    "text": "Easier integration\n\nReticulate is great but…\n\nWrapping python inside of R is hard\nNot everything works\nEnvironments can be challenging\nHard to get help\n\nOne language is simpler"
   },
   {
     "objectID": "index.html#proves-you-know-python",
