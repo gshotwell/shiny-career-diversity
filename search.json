@@ -67,7 +67,7 @@
     "href": "index.html#dash",
     "title": "Diversify your career with Shiny for Python",
     "section": "Dash",
-    "text": "Dash\n\nStateless applicatoins\nComponents can’t really share data\nImagine Shiny without reactive expressions\nSolves a problem which you probably don’t have"
+    "text": "Dash\n\nStateless applications\nComponents can’t really share data\nImagine Shiny without reactive expressions\nSolves a problem which you probably don’t have"
   },
   {
     "objectID": "index.html#djangoflaskfastapi",
@@ -96,5 +96,12 @@
     "title": "Diversify your career with Shiny for Python",
     "section": "Get involved",
     "text": "Get involved\n\nJoin the Discord\nPort an R shiny extension\nBook a webinar with us"
+  },
+  {
+    "objectID": "index.html#thank-you",
+    "href": "index.html#thank-you",
+    "title": "Diversify your career with Shiny for Python",
+    "section": "Thank you!",
+    "text": "Thank you!"
   }
 ]
