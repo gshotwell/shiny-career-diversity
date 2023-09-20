@@ -11,9 +11,9 @@ editor:
 # Career mistakes
 
 ::: {.notes}
-- Hired to build shiny apps an improve R code
+- Hired to build shiny apps and improve R code
 - Socure switched to Python
-- Question of whehter I could build Python tools
+- Question of whether I could build Python tools
 - Why didn't I have confidence in Python development?
 :::
 
@@ -84,7 +84,7 @@ Learn things that:
     - Changing a button color?
 
 ## Dash
-- Stateless applicatoins
+- Stateless applications
 - Components can't really share data
 - Imagine Shiny without reactive expressions
 - Solves a problem which you probably don't have
